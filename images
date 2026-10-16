@@ -1,11 +1,11 @@
 <div class="profile-container">
-      <img src="My-Portfolio/project1.jpg" alt="images/Profile1.jpg" class="profile-img">
+      <img src="My-images/project1.jpg" alt="images/Profile1.jpg" class="profile-img">
 </div>
 
 <div class="project-image">
-     <img src="My-Portfolio/Reporting.jpg" alt="Project Name">
+     <img src="images/Reporting.jpg" alt="Project Name">
 </div>
 
 <div class="project-image">
-            <img src="My-Portfolio/Research paper.jpg" alt="Project Name">
+            <img src="images/Research-paper.jpg" alt="Project Name">
 </div>
