@@ -3,9 +3,9 @@
 </div>
 
 <div class="project-image">
-     <img src="images/Reporting.jpg" alt="images/Reporting.jpg">
+     <img src="images/Reporting.jpg" alt="Project" class:"project-img">
 </div>
 
 <div class="project-image">
-            <img src="images/Research Paper.jpg" alt="image/Research paper.jpg">
+            <img src="images/Research Paper.jpg" alt="Project" class:"project-img">
 </div>
